@@ -1,0 +1,17 @@
+C:\\Users\\Sahaj's PC\\PycharmProjects\\pythonProject4\\data.csv
+
+cusind: customer rating according to emplyoee
+cusknow: customer knowledge about his problem
+probval: problem vality
+
+probtype: is problem new or recorded
+probkey: keywords aboutt the problem
+
+apptoprob: tell if our predifined approach was satisfactory or not? -problem
+apptocus: tell if our predifined approach was satisfactory or not?- customer
+
+
+
+
+
+
